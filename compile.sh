@@ -1,2 +1,2 @@
 #!/bin/sh
-make sty && lualatex -interaction=nonstopmode -shell-escape slides
+lualatex -interaction=nonstopmode -shell-escape slides

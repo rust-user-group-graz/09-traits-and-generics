@@ -1,7 +1,7 @@
 README
 ======
 
-This presentation took place on 2020/02/27.
+This presentation took place on 2020/02/26.
 
 * I created the slides using beamer with the metropolis theme
 * resources/images are found in the folder images/
